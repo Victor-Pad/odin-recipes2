@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(177, 190, 181);
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    font-size: 30pt;
+}
+
+
+ul,
+ol {
+    font-family: Verdana, sans-serif;
+}
+
+h3,
+.recipe-list {
+    font-family: Verdana, sans-serif;
+    font-size: 16pt;
+}
+
+a {
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+}
